@@ -1,7 +1,7 @@
 # LrcPlayer
 data => song
 
-songファイルの中にlrc形式の歌詞・よみ、Youtube動画URLを記述したtxtファイルを入れて下さい。
+songファイルの中にlrc形式の歌詞・よみ、txt形式のYoutube動画URLを記述したファイルを入れて下さい。
 
 **【ファイル名と書き方】**
 
